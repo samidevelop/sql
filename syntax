@@ -1,0 +1,20 @@
+* note1 
+  numric default is signed
+  //unsigned numeric
+  create table table1(id tinyint unsigned) ;
+ 
+ * note2
+  -tinyint
+   tinyint(1-4)
+   tinyint // def 4
+   tinyint unsigned 0 255
+  -char
+   char(0-255)
+   char // def 1
+  -varchar    var length
+   varchar(0-65535)
+   varchar // Error most have length
+  -text
+  
+   
+  
