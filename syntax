@@ -15,6 +15,10 @@
    varchar(0-65535)
    varchar // Error most have length
   -text
+   text  0-65535
+   text(200) = text
+  
+  
   
    
   
